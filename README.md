@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Akshita]
+# Hi there 👋 I'm Akshita
 
 I am a passionate **Java Backend Developer** with a strong interest in building scalable and efficient systems. I thrive in backend development, where I specialize in **Java**, **Spring Boot**, **MySQL**, and **REST APIs**. My focus is on creating clean, maintainable code while solving real-world problems with technology.
 
