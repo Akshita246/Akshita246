@@ -11,7 +11,7 @@ I am a passionate **Java Backend Developer** with a strong interest in building 
 
 ---
 
-### 🔭 **Current Projects**
+### 🔭 **Currently Working On**
 - **VisorVision**: A next-gen traffic surveillance system designed to detect and fine riders not wearing helmets, combining React.js, Spring Boot, and AI for real-time traffic monitoring.
 - **Wisk and Crumb**: A full-stack bakery website project showcasing my skills in both backend development and UI design.
 
