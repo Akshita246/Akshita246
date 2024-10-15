@@ -10,13 +10,6 @@ I am a passionate **Java Backend Developer** with a strong interest in building 
 - **RESTful APIs**: Designing and implementing APIs that connect and empower applications.
 
 ---
-
-### 🔭 **Currently Working On**
-- **VisorVision**: A next-gen traffic surveillance system designed to detect and fine riders not wearing helmets, combining React.js, Spring Boot, and AI for real-time traffic monitoring.
-- **Wisk and Crumb**: A full-stack bakery website project showcasing my skills in both backend development and UI design.
-
----
-
 ### 🌱 **What I’m Learning**
 - Advanced concepts in **Spring Boot** and **Docker**.
 - Enhancing my knowledge of **cybersecurity** to build more secure and resilient systems.
