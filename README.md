@@ -30,7 +30,7 @@ I’m always open to contributing to meaningful projects or collaborating with l
 ---
 
 ### 📫 **Reach Me**
-- **Email**: [akshita8a888@gmail.com](mailto:your-email@example.com)
+- **Email**: [akshitabhandari24@gmail.com](mailto:your-email@example.com)
 - **LinkedIn**: [www.linkedin.com/in/akshita-5a813424a](https://www.linkedin.com/in/yourprofile)
 
 ---
